@@ -1,12 +1,19 @@
-👋 Hey, I’m Harsh Yadav
+🌟 Hey there, I’m Harsh Yadav! 👋
 
-I’m an aspiring Data Analyst based in Mumbai, passionate about transforming data into meaningful insights and driving smarter decisions. Alongside my journey in analytics, I also manage a digital media agency, where creativity meets technology to bring ideas to life.
+Welcome to my corner of GitHub — where data meets creativity and ideas come to life 💡
+I’m an aspiring Data Analyst from Mumbai, passionate about turning raw numbers into real insights and transforming patterns into stories that drive impact.
+
+When I’m not deep-diving into datasets, you’ll find me managing my digital media agency, blending tech and design to craft something meaningful and fresh.
 
 Here, you’ll find:
-📊 Data analytics and visualization projects showcasing real-world insights
+📊 Analytics Projects that uncover real-world insights
 💻 Experiments in Python, SQL, and BI tools
-🚀 Continuous learning in analytics, business intelligence, and data-driven storytelling
+🚀 Ongoing growth in business intelligence, storytelling, and visualization
 
+I believe in learning by building, sharing, and collaborating — because growth is better when it’s shared 🌱
+So whether you’re here to explore projects, get inspired, or connect over data and design — you’re in the right place!
+
+Let’s decode, create, and grow — one repo at a time 💻✨
 
 
 ## 🌐 Socials:
