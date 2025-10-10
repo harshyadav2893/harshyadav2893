@@ -7,7 +7,9 @@ When I’m not deep-diving into datasets, you’ll find me managing my digital m
 
 Here, you’ll find:
 📊 Analytics Projects that uncover real-world insights
+
 💻 Experiments in Python, SQL, and BI tools
+
 🚀 Ongoing growth in business intelligence, storytelling, and visualization
 
 I believe in learning by building, sharing, and collaborating — because growth is better when it’s shared 🌱
